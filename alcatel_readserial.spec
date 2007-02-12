@@ -1,5 +1,5 @@
 Summary:	Read call accounting and error data from an Alcatel PCX
-Summary(pl.UTF-8):   Odczyt danych o połączeniach i błędach z PCX Alcatela
+Summary(pl.UTF-8):	Odczyt danych o połączeniach i błędach z PCX Alcatela
 Name:		alcatel_readserial
 Version:	0.5
 Release:	1

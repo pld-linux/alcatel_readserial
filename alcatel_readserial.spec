@@ -1,5 +1,5 @@
 Summary:	Read call accounting and error data from an Alcatel PCX
-Summary(pl):	Odczyt danych o po³±czeniach i b³êdach z PCX Alcatela
+Summary(pl.UTF-8):   Odczyt danych o poÅ‚Ä…czeniach i bÅ‚Ä™dach z PCX Alcatela
 Name:		alcatel_readserial
 Version:	0.5
 Release:	1
@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Read call accounting and error data from an Alcatel PCX built in
 serial port, filtering along the way.
 
-%description -l pl
-Odczyt danych o po³±czeniach i b³êdach z centralki PCX Alcatela
+%description -l pl.UTF-8
+Odczyt danych o poÅ‚Ä…czeniach i bÅ‚Ä™dach z centralki PCX Alcatela
 poprzez wbudowany port szeregowy z filtrowaniem.
 
 %prep
